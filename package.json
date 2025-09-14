@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@uiw/react-md-editor": "^3.14.1",
-    "axios": "^1.8.2",
+    "axios": "^1.12.0",
     "luxon": "^2.5.2",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
